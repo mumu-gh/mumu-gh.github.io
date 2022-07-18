@@ -1,37 +1,70 @@
-## Welcome to GitHub Pages
+# Fexo
 
-You can use the [editor on GitHub](https://github.com/mumu-gh/mumu-gh.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+> A minimalist design theme for Hexo.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> 一个极简主义设计的 Hexo 主题。
 
-### Markdown
+<a href="http://forsigner.com/" target="_blank">Demo</a>
+|
+<a href="http://forsigner.com/fexo-doc-zh-cn/" target="_blank">文档</a>
+|
+<a href="http://forsigner.com/fexo-doc-zh-tw/" target="_blank">文檔</a>
+|
+<a href="http://forsigner.com/fexo-doc-en/" target="_blank">Doc</a>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![screenshot-1](http://forsigner.com/images/fexo/mobile.png?v=1)
+![screenshot-1](http://forsigner.com/images/fexo/fexo-1.png?v=1)
+![screenshot-2](http://forsigner.com/images/fexo/fexo-2.png?v1)
 
-```markdown
-Syntax highlighted code block
+### Browser compatibility
 
-# Header 1
-## Header 2
-### Header 3
+- IE8+
+- Firefox
+- Chrome
+- Safari
+- Opera
 
-- Bulleted
-- List
+## Support
 
-1. Numbered
-2. List
+Did Fexo help you? Join the open collective at https://opencollective.com/fexo
 
-**Bold** and _Italic_ and `Code` text
+### Contributing
 
-[Link](url) and ![Image](src)
-```
+All kinds of contributions are welcome.
+All pull requests should be done on the dev branch.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+欢迎任何改善的贡献，欢迎 Pull request 到 dev 分支。
 
-### Jekyll Themes
+## Contributors
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mumu-gh/mumu-gh.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Code Contributors
 
-### Support or Contact
+This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
+<a href="https://github.com/forsigner/fexo/graphs/contributors"><img src="https://opencollective.com/fexo/contributors.svg?width=890&button=false" /></a>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Financial Contributors
+
+Become a financial contributor and help us sustain our community. [[Contribute](https://opencollective.com/fexo/contribute)]
+
+#### Individuals
+
+<a href="https://opencollective.com/fexo"><img src="https://opencollective.com/fexo/individuals.svg?width=890"></a>
+
+#### Organizations
+
+Support this project with your organization. Your logo will show up here with a link to your website. [[Contribute](https://opencollective.com/fexo/contribute)]
+
+<a href="https://opencollective.com/fexo/organization/0/website"><img src="https://opencollective.com/fexo/organization/0/avatar.svg"></a>
+<a href="https://opencollective.com/fexo/organization/1/website"><img src="https://opencollective.com/fexo/organization/1/avatar.svg"></a>
+<a href="https://opencollective.com/fexo/organization/2/website"><img src="https://opencollective.com/fexo/organization/2/avatar.svg"></a>
+<a href="https://opencollective.com/fexo/organization/3/website"><img src="https://opencollective.com/fexo/organization/3/avatar.svg"></a>
+<a href="https://opencollective.com/fexo/organization/4/website"><img src="https://opencollective.com/fexo/organization/4/avatar.svg"></a>
+<a href="https://opencollective.com/fexo/organization/5/website"><img src="https://opencollective.com/fexo/organization/5/avatar.svg"></a>
+<a href="https://opencollective.com/fexo/organization/6/website"><img src="https://opencollective.com/fexo/organization/6/avatar.svg"></a>
+<a href="https://opencollective.com/fexo/organization/7/website"><img src="https://opencollective.com/fexo/organization/7/avatar.svg"></a>
+<a href="https://opencollective.com/fexo/organization/8/website"><img src="https://opencollective.com/fexo/organization/8/avatar.svg"></a>
+<a href="https://opencollective.com/fexo/organization/9/website"><img src="https://opencollective.com/fexo/organization/9/avatar.svg"></a>
+
+### License
+
+[MIT](LICENSE)
